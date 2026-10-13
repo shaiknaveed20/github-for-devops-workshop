@@ -26,4 +26,5 @@
   459  ls
   460  git status
   461  ls
-[A[C[C[C[A
+[A[C[C[C[Agit clone 
+git cloneeeee
