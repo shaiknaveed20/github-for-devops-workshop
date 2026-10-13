@@ -1,0 +1,29 @@
+ 434  rm testing.py
+  435  ls
+  436  git status
+  437  cat > testing.py
+  438  git status
+  439  clear
+  440  clear
+  441  cls
+  442  ls
+  443  git add testing.py
+  444  git status
+  445  git rm --cached testing.py
+  446  git status
+  447  ls
+  448  git add .
+  449  ls
+  450  git status
+  451  clear
+  452  git status
+  453  git commit -m "added testing files"
+  454  git status
+  455  rm testing.py
+  456  ls
+  457  git status
+  458  git restore testing.py
+  459  ls
+  460  git status
+  461  ls
+[A[C[C[C[A
